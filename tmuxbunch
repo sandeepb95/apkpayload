@@ -4,12 +4,12 @@ subs="which file ? Enter number of choice or 'x' to exit"
 esit="are you sure ? press ENTER to exit"
 return="ENTER to return to TMUX-BUNCH menu"
 DIRECTORY="/data/data/com.termux/files/usr/share/figlet"
-TMP="Hax4Us(devil) Tmux-Bunch is a first tool for complete apk modding in TERMUX."
+TMP="SUBSCRIBE SANDEEP TECH FOR MORE HACKING TRICKS "
 VERSION="VERSION 2.0"
 if [ ! -d "$DIRECTORY" ]; then
 apt update && apt install figlet
 fi
-figlet -f mini ..........TMUX-BUNCH..........
+figlet -f mini ..........APK PAYLOAD..........
 echo
 echo
 echo "ENTER to continue"
@@ -18,21 +18,21 @@ echo $TMP
 echo
 echo $VERSION
 echo
-echo "   --------Hax4Us-----DeViL-----Don't----CopY--------"
+echo "   --------SANDEEP-----TECH-----DO----SUBSCRIBE--------"
 echo
-echo "WARNING :- Don't Try To Reupload , Modify , Or Resell Otherwise I Will Report You"
+echo "SUBSCRIBE MY YOUTUBE CHANNEL SANDEEP TECH"
 echo
-echo "You Can Reuse Or Give My Tool To Anyone or users But You Will Have To Take Permission From Me"
+echo "CONTACT ME ON FACEBOOK - http://www.faebook.com/sandeepn95"
 echo
 echo "   -------------- LICENSE--INCLUDED----------------"
 echo
-echo "          ~~~~~~~~~~~TMUX---BUNCH~~~~~~~~~~~"
+echo "          ~~~~~~~~~~~APK PAYLOAD~~~~~~~~~~~"
 echo
 echo "                     APK MODDING          "
 echo "-----------------------------------------------------"
 echo
 echo
-echo "  ----------------------DeViL-----------------------"
+echo "  ----------------------SANDEEP TECH-----------------------"
 echo "-------------------------------------------------------"
 echo "$TMP"
 echo
@@ -83,7 +83,7 @@ echo
 echo
 echo "_______________________"
 echo
-echo "ENTER to return to TMUX-BUNCH menu"
+echo "ENTER to return to APK PAYLOAD menu"
 read l
 fi
 cd $dir
@@ -274,15 +274,15 @@ echo "ENTER to continue"
 read continue
 echo
 echo
-echo "------Creator Of This Script Or Tool ::---->> DeViL----"
+echo "------Creator Of This Script Or Tool ::-->> SANDEEP TECH--"
 echo
-figlet -f mini ..........TMUX--BUNCH..........
+figlet -f mini ..........APK PAYLOAD..........
 echo
 echo
-echo "            ~~~~~~~TMUX---BUNCH~~~~~~~~"
+echo "            ~~~~~~~APK PAYLOAD~~~~~~~~"
 echo
 echo "ENTER to continue"
-read devil
+read TECH
 cd $dir
 ./tmuxbunch
 ;;
@@ -292,10 +292,10 @@ echo
 echo "1)Openjdk Creators"
 echo "2)Apktool Creator(ibotpeaches)"
 echo "3)Great Tools (signapk , zipalign , apktool , openjdk)"
-echo "4)DeViL(Hax4Us) --- Collector/Script/Tool-Creator"
+echo "4)SANDEEP TECH --- Collector/Script/Tool-Creator"
 echo
 echo "ENTER to continue"
-read devil
+read SANDEEP
 cd $dir
 ./tmuxbunch
 ;;
